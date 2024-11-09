@@ -1,0 +1,4 @@
+{
+  "boardGlobalSetup": "./src/boards-global-setup.ts",
+  "tailwindcssConfig": "./tailwind.config.js"
+}
